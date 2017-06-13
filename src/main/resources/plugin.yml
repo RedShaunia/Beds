@@ -1,0 +1,5 @@
+name: BedOverride
+main: com.simplexservers.minecraft.bedoverride.Main
+version: 1.0
+author: Zach Abney
+description: Overrides players sleeping in beds changing the server time.
